@@ -14,7 +14,7 @@ for i in range(1,5):            #for (i =1;i<5;i++)
     print(i,"Hello World")
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
     # for loop
 # range()
@@ -22,7 +22,7 @@ for i in range(1,5,2):            #for (i =1;i<5;i=i+2)
     print(i,"Hello World")
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = int(input("Enter n = "))
@@ -30,7 +30,7 @@ for i in range(1,11):
     print(i*n)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = int(input("Enter n = "))
@@ -38,7 +38,7 @@ for i in range(1,11):
     print(n,"*",i,"=",i*n)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 s = 0
@@ -49,7 +49,7 @@ for i in range(n):
 print(s)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 # 4! = 1*2*3*4
@@ -60,7 +60,7 @@ for i in range(1,n+1):
 print(fac)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -68,7 +68,7 @@ for i in a:
     print(a)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -76,7 +76,7 @@ for i in a:
     print("Hello World")
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -85,7 +85,7 @@ for i in range(l):
     print(a[i])
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 s = ""
@@ -97,9 +97,8 @@ for i in range(n):
     s = s + info +"\n"
 print(s)
 
-
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = int(input("Enter n = "))
@@ -125,7 +124,7 @@ for i in range(n):
 
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 
@@ -134,7 +133,7 @@ for i in range(1,21):
         print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 for i in range(1,51):
@@ -142,7 +141,7 @@ for i in range(1,51):
         print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 # control statement
@@ -157,7 +156,7 @@ for i in range(10):
         print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Hello World"
@@ -167,7 +166,7 @@ for i in a:
     print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 for i in range(10):
@@ -177,7 +176,7 @@ for i in range(10):
         print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Hello World I am Python"
@@ -187,7 +186,7 @@ for i in a:
     print(i,end= "")       
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 for i in range(1,51):
@@ -197,7 +196,7 @@ for i in range(1,51):
         print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = int(input("Enter n = "))
@@ -213,7 +212,7 @@ else:
 
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 # 0 1 1 2 3 5 8 13     
@@ -222,7 +221,7 @@ for i in range(5,-1,-1):
     print(i)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -240,7 +239,7 @@ for i in range(3):
         print(i,j)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 for i in range(3):
@@ -261,9 +260,8 @@ x = a>b
 print(x)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-
 
 n = 0
 while n<5:
@@ -271,7 +269,7 @@ while n<5:
     n = n+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = 0
@@ -280,7 +278,7 @@ while n<5:
     n = n+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = 1
@@ -289,7 +287,7 @@ while n<5:
     n = n+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 n = 1
@@ -298,7 +296,7 @@ while n<5:
     n +=2
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 i = 1
@@ -308,7 +306,7 @@ while i<=10:
     i = i+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 s = 0
@@ -321,7 +319,7 @@ while i<n:
 print(s)
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -332,7 +330,7 @@ while i<l:
     i = i+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 a = "Python"
@@ -343,7 +341,7 @@ while l>=i:
     l = l-1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 
@@ -362,7 +360,7 @@ else:
 
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 
@@ -378,7 +376,7 @@ while 10<20:
     break
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 
@@ -392,7 +390,7 @@ while k<l:
     k = k+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 
@@ -407,7 +405,7 @@ while k<=l:
     k = k+1
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! ---- ### --- *** --- !!!")
+print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
     # pass
