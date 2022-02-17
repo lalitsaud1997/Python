@@ -29,13 +29,13 @@ print(b)
 print(b*2)
 
 b = ["Apple","Ball","Cat","Dog","Apple"]
-b[1]
+print(b[1])
 
 b = ["Apple","Ball","Cat","Dog","Apple"]
-b[0:30]
+print(b[0:30])
 
 b = ["Apple","Ball","Cat","Dog","Apple"]
-b[0:4:2]
+print(b[0:4:2])
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 print("!!! --- This is another list example --- !!!")
@@ -88,9 +88,7 @@ a = []
 n = int(input("Enter n = "))
 for i in range(n):
     x = int(input("Enter x = "))
-    a = a+[x]
-
-    
+    a = a+[x]  
 print(a)
 print("Sum = ",sum(a))
 print("Max = ",max(a))
@@ -265,7 +263,7 @@ b = a.pop(0)
 print(a)
 
 a = ['Apple', 'Fish', 'Ball', 'Cat', 'Dog','Apple']
-a.index('Apple')
+print(a.index('Apple'))
 
 
 a = ['Apple', 'Fish', 'Ball', 'Cat', 'Dog','Apple']
@@ -323,10 +321,10 @@ print(a)
 print(len(a))
 
 a = [['Apple',200 ,4 ,800], ['Ball',4 ,200 ,800]]
-a[1]
+print(a[1])
 
 a = [['Apple',200 ,4 ,800], ['Ball',4 ,200 ,800]]
-a[1]
+print(a[1])
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 print("!!! --- This is another list example --- !!!")
@@ -338,17 +336,17 @@ a = [[1,2,3,4],
      [7,8,9]]
 print(type(a))
 
-a[0][0]
+print(a[0][0])
 
 
 a = [['Apple',200 ,4 ,800], ['Ball',4 ,200 ,800]]
 a[0] = ['Pineapple',100,2,200]
-a
+print(a)
 
 
 a = [['Apple',200 ,4 ,800], ['Ball',4 ,200 ,800]]
 a[0][0] = "Pineapple"
-a
+print(a)
 
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
