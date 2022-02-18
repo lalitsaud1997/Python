@@ -8,18 +8,17 @@ for i in range(5):            #for (i =0;i<5;i++)
     print(i,"Hello World")
 
 
- # for loop
+# for loop
+
 # range()
 for i in range(1,5):            #for (i =1;i<5;i++)
     print(i,"Hello World")
 
-# * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! --- This is another loop example --- !!!")
-# * # * # * # * # * # * # * # * # * # * # * # * # * #
-    # for loop
+
 # range()
 for i in range(1,5,2):            #for (i =1;i<5;i=i+2)
     print(i,"Hello World")
+
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 print("!!! --- This is another loop example --- !!!")
@@ -53,6 +52,7 @@ print("!!! --- This is another loop example --- !!!")
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
 
 # 4! = 1*2*3*4
+
 fac = 1
 n = int(input("Enter n = "))
 for i in range(1,n+1):
@@ -120,7 +120,8 @@ for i in range(n):
          print("The grade is = ",'C')
     else:
         print("The grade is = ",'F')
-#     info = name + " " + str(physics) 
+
+#info = name + " " + str(physics) 
 
 
 # * # * # * # * # * # * # * # * # * # * # * # * # * #
@@ -230,9 +231,11 @@ print(l)
 for i in range(l-1,-1,-1):
     print(a[i],end = "")
 
+
 # Nested for
 # for <>:
 #     for <>:
+
 
 for i in range(3):
     for j in range(3):
@@ -247,12 +250,14 @@ for i in range(3):
         for k in range(3):
             print(i,j,k)
 
+
 # # while loop
 # while <condition>:
 #     <operations>     
 #infiniti loop
 # while True:
 #     print("Hello World")
+
 
 a = 10
 b = 2
@@ -404,8 +409,5 @@ while k<=l:
     print(a[k],end = "")
     k = k+1
 
-# * # * # * # * # * # * # * # * # * # * # * # * # * #
-print("!!! --- This is another loop example --- !!!")
-# * # * # * # * # * # * # * # * # * # * # * # * # * #
 
     # pass
